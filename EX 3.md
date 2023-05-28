@@ -1,8 +1,7 @@
 # EX-3 IMPLEMENTATION OF SLIDING WINDOW PROTOCOL
 
 
-DATE :
-
+### DATE : 22-03-2023
 
 ## AIM :
 To write a python program to perform sliding window protocol
@@ -53,9 +52,9 @@ OUTPUT :	while True:
 
 ## OUTPUT :
 ### Client
-![](3c.png)
+![](1.png)
 ### Server
-![](3s.png)
+![](2.png)
 
 ## RESULT:
 Thus, python program to perform stop and wait protocol was successfully executed.
